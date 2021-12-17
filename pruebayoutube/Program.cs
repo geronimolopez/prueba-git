@@ -8,6 +8,8 @@ namespace pruebayoutube
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello!");
+            Console.WriteLine("Holaaaaa!");
+            Console.WriteLine("chau");
             Console.ReadKey();
         }
 
