@@ -1,0 +1,14 @@
+C:\Users\Titi\Desktop\prueba git\pruebayoutube\pruebayoutube\bin\Debug\netcoreapp3.1\pruebayoutube.exe
+C:\Users\Titi\Desktop\prueba git\pruebayoutube\pruebayoutube\bin\Debug\netcoreapp3.1\pruebayoutube.deps.json
+C:\Users\Titi\Desktop\prueba git\pruebayoutube\pruebayoutube\bin\Debug\netcoreapp3.1\pruebayoutube.runtimeconfig.json
+C:\Users\Titi\Desktop\prueba git\pruebayoutube\pruebayoutube\bin\Debug\netcoreapp3.1\pruebayoutube.runtimeconfig.dev.json
+C:\Users\Titi\Desktop\prueba git\pruebayoutube\pruebayoutube\bin\Debug\netcoreapp3.1\pruebayoutube.dll
+C:\Users\Titi\Desktop\prueba git\pruebayoutube\pruebayoutube\bin\Debug\netcoreapp3.1\pruebayoutube.pdb
+C:\Users\Titi\Desktop\prueba git\pruebayoutube\pruebayoutube\obj\Debug\netcoreapp3.1\pruebayoutube.csproj.AssemblyReference.cache
+C:\Users\Titi\Desktop\prueba git\pruebayoutube\pruebayoutube\obj\Debug\netcoreapp3.1\pruebayoutube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Titi\Desktop\prueba git\pruebayoutube\pruebayoutube\obj\Debug\netcoreapp3.1\pruebayoutube.AssemblyInfoInputs.cache
+C:\Users\Titi\Desktop\prueba git\pruebayoutube\pruebayoutube\obj\Debug\netcoreapp3.1\pruebayoutube.AssemblyInfo.cs
+C:\Users\Titi\Desktop\prueba git\pruebayoutube\pruebayoutube\obj\Debug\netcoreapp3.1\pruebayoutube.csproj.CoreCompileInputs.cache
+C:\Users\Titi\Desktop\prueba git\pruebayoutube\pruebayoutube\obj\Debug\netcoreapp3.1\pruebayoutube.dll
+C:\Users\Titi\Desktop\prueba git\pruebayoutube\pruebayoutube\obj\Debug\netcoreapp3.1\pruebayoutube.pdb
+C:\Users\Titi\Desktop\prueba git\pruebayoutube\pruebayoutube\obj\Debug\netcoreapp3.1\pruebayoutube.genruntimeconfig.cache

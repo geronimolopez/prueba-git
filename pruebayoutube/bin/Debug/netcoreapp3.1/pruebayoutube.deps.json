@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pruebayoutube/1.0.0": {
+        "runtime": {
+          "pruebayoutube.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pruebayoutube/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
